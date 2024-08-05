@@ -1,0 +1,2 @@
+hdfs dfs -put /mnt/data/SalesJan2009.csv /user/hive/warehouse/sales_jan2009/
+
